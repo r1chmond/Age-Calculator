@@ -192,5 +192,6 @@ $RECYCLE.BIN/
 #manual ignore
 *.idea/
 *Age Calculator.iml
+*Test.iml
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all,windows,linux,macos,java
