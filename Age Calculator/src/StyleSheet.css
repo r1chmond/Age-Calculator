@@ -1,0 +1,56 @@
+
+.label {
+  -fx-font-size: 14;
+  -fx-padding: 6;
+}
+
+/* increased button text size */
+.text {
+ -fx-font-size: 14;
+}
+
+#firstSceneText {
+    -fx-font-size: 16;
+}
+
+#secondSceneText {
+    -fx-font-size: 36;
+}
+
+#textDay {
+    -fx-font-size: 26;
+    -fx-padding: 12;
+    -fx-text-fill: blue;
+}
+
+#textName {
+    -fx-font-size: 26;
+}
+
+.button {
+    -fx-background-color: rgb(3, 219, 252,.4);
+    -fx-font-size: 1em; /* 12 */
+    -fx-text-fill: #ffffff;
+
+    -fx-cursor: hand;
+    -fx-padding: 2;
+    -fx-spacing: 16;
+}
+
+.button:hover {
+    -fx-background-color: #03fce3;
+    -fx-text-fill: white;
+}
+
+.choice-box {
+    -fx-background-color: #f0ffff;
+    -fx-mark-color: blue;
+    -fx-border-color: #afeeee;
+    -fx-border-width: 3px;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+
+.choice-box: filled:hover {
+    -fx-background-color: #008b8b;
+    }
