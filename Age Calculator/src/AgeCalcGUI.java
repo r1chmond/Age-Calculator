@@ -345,11 +345,12 @@ public void calculateButtonAction(MouseEvent mouseEvent)
     }
 
     /**
-     *
+     * redundant
      */
-    public void notAMethod(){
+    public void notAMethod() {
         System.out.println("Not a method");
     }
+
     public static void main(String[] args)
     {
         launch();
