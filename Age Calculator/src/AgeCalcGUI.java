@@ -344,6 +344,12 @@ public void calculateButtonAction(MouseEvent mouseEvent)
 
     }
 
+    /**
+     * Not a method
+     */
+    public void notAMethod(){
+        System.out.println("new Branch not a method");
+    }
     public static void main(String[] args)
     {
         launch();
